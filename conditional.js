@@ -65,3 +65,5 @@ else { console.log ('Go To Bed')}
         break
 }
 
+//For more on ternaries,look at ternary.js
+
